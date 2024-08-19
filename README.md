@@ -9,7 +9,7 @@ Withdraw Funds: Withdraw money from the account balance.
 
 #How to Run
 1. Clone the Repository:
-git clone https://github.com/yourusername/ATM-System.git
+git clone https://github.com/abhinavtavse/ATM-System.git
 2. Navigate to the Project Directory:
 cd ATM-System
 3. Run the Application:
