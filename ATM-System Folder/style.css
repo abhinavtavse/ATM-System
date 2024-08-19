@@ -1,0 +1,79 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+#atmmac {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#outer {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+#com {
+  margin-top: 20px;
+}
+
+button {
+  padding: 12px 24px;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #329da8;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="number"] {
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  transition: border-color 0.3s ease;
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="number"]:focus {
+  border-color: #329da8;
+}
+
+#bt3{
+  padding: 12px 24px;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #329da8;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#bt3:hover{
+  background-color: #45a049
+}
+
+.screen {
+  margin-top: 20px;
+  padding: 20px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
+
